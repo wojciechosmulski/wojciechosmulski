@@ -1,6 +1,9 @@
 # 💫 About Me:
 👋 Hello,<br>⚙️ I am currently working on broadening my skills.<br>🌱 I am currently learning React and Next.js.<br>🎮 I love esports and I worked for one of industry leading companies.
 
+# 💼 Working For:
+![ESLGaming](https://a11ybadges.com/badge?logo=eslgaming) ![FACEIT](https://a11ybadges.com/badge?logo=faceit) 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wojciechosmulski/) 

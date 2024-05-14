@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello,<br>⚙️ I am currently working on broadening my skills.<br>🌱 I am currently learning React and Next.js.<br>🎮 I love esports and I worked for one of industry leading companies.
+👋 Hello,<br>⚙️ I am currently working on broadening my skills.<br>🌱 I am React and Next.js developer.<br>🎮 I love esports and I am working for ESL FACEIT Group.
 
 # 💼 Working For:
 ![ESLGaming](https://a11ybadges.com/badge?logo=eslgaming) ![FACEIT](https://a11ybadges.com/badge?logo=faceit) 

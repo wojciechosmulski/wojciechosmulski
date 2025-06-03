@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hello,<br>⚙️ I am currently working on broadening my skills.<br>🌱 I am React and Next.js developer.<br>🎮 I love esports and I am working for ESL FACEIT Group.
+👋 Hello,<br>⚙️ I am open for freelance projects<br>🌱 I am React and Next.js developer.<br>🎮 I love esports and I am working for ESL FACEIT Group.
+Check out my website: https://osmulskiw.eu
 
 # 💼 Working For:
 ![ESLGaming](https://a11ybadges.com/badge?logo=eslgaming) ![FACEIT](https://a11ybadges.com/badge?logo=faceit) 
